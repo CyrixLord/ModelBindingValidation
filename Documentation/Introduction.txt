@@ -1,0 +1,32 @@
+﻿welcome. 
+
+this project from yogihosting.com/aspnet-core-model-binding is being created to increase my understanding
+of the repository pattern.  My current large project for the web portal would do well to have
+a repository pattern instead of what I am presently using, which is bringing the database context directly to
+each controller that would need to use the database for CRUD operations.
+
+I am piggybacking this context off of the identity feature so that the context also handles identity CRUD as well.
+
+I would like to instead use a repository pattern to take teh DB specific crud operations away from the controller
+and put them into a separate class. doing this allows the controller not to care HOW or WHERE something is being deleted
+just that it needs deleted. whether from a db, a webapp, a rest API.... the specifics of how it is being deleted will
+be obfuscated away in an interface.
+
+I understand most of this but I do not presently know a good way to implement this in my own web portal project so
+here we are!
+
+I am using the useful guidance of http://yoshihosting.com/aspnet-core-model-binding/  backed by information
+I already gained from some youtube videos from Steve Bishop, as well as pluralsite, which is where I have been
+getting most of my asp.net MVC knowledge.
+
+when I get stuck in a project, i like to cut out a few days on another project to get me up to speed before implementing
+it in the big project-- some time to develop the technology.
+
+==
+
+remember to click on the project name and select the 'manage client side libraries' to get libman to install bootstrap, etc.
+you may need to point to the location in your _Layout file
+
+
+
+
