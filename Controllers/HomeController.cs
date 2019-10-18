@@ -18,6 +18,7 @@ namespace ModelBindingValidation.Controllers
             repository = repo;       // passes the repository context to the controller
         }     
         // GET: /<controller>/
+      
         public ViewResult Index(int id)
         {
            
