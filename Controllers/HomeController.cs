@@ -21,8 +21,9 @@ namespace ModelBindingValidation.Controllers
       
         public ViewResult Index(int id)
         {
-           
+            
             return View(repository[id]);
+            
         }
     }
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using ModelBindingValidation.Models;
 
-namespace ModelBindingValidation.Repositories
+namespace ModelBindingValidation.Repositories   // this is where crud operations happen
 {
     public class EmployeeRepository : IRepository
     {
