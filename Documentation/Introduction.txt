@@ -17,7 +17,7 @@ be obfuscated away in an interface.
 I understand most of this but I do not presently know a good way to implement this in my own web portal project so
 here we are!
 
-I am using the useful guidance of http://yoshihosting.com/aspnet-core-model-binding/  backed by information
+I am using the useful guidance of http://yogihosting.com/aspnet-core-model-binding/  backed by information
 I already gained from some youtube videos from Steve Bishop, as well as pluralsite, which is where I have been
 getting most of my asp.net MVC knowledge.
 
