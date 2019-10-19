@@ -93,7 +93,7 @@
       ]
     },
     "popper.js/1.14.0": {
-      "sha512": "oamtAIKoHa/s45chV0TozJhrwTRUBURUVjFl1wHw1MrCplFDxmK41CMrMDQx1Eq08n7oEzqSHEPPWCdA6Mhb1w==",
+      "sha512": "SPxZdXknelgQ015wey7GMZvsVdt/SyEmHYORhEp5k/uF9MUk9DPtkn+6dR98fud2hVWJjZm9KKr474+r7WQt+A==",
       "type": "package",
       "path": "popper.js/1.14.0",
       "files": [
@@ -137,26 +137,23 @@
   },
   "packageFolders": {
     "C:\\Users\\aaroned\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\WebProjects\\ModelBindingValidation\\ModelBindingValidation.csproj",
+      "projectUniqueName": "c:\\dev\\webprojects\\modelbindingvalidation\\ModelBindingValidation.csproj",
       "projectName": "ModelBindingValidation",
-      "projectPath": "C:\\dev\\WebProjects\\ModelBindingValidation\\ModelBindingValidation.csproj",
+      "projectPath": "c:\\dev\\webprojects\\modelbindingvalidation\\ModelBindingValidation.csproj",
       "packagesPath": "C:\\Users\\aaroned\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\WebProjects\\ModelBindingValidation\\obj\\",
+      "outputPath": "c:\\dev\\webprojects\\modelbindingvalidation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\aaroned\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"

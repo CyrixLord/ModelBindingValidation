@@ -1,4 +1,6 @@
 ﻿welcome. 
+AFTER RUNNING THIS PROJECT  GO TO https://localhost:<port>/home/index/1
+
 
 this project from yogihosting.com/aspnet-core-model-binding is being created to increase my understanding
 of the repository pattern.  My current large project for the web portal would do well to have
